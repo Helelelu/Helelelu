@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url('Background.jpg');
+    background-color: maroon;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+marquee{
+    height: 500px;
+    width: 500px;
+}
+.lyrics{
+    text-align: center;
+    line-height: 32px;
+}
